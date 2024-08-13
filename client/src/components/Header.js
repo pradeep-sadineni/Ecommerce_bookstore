@@ -11,7 +11,7 @@ const Header = () => {
 
 	return (
 		<div className="header">
-			<h1 className="gfg">GFG Book Store </h1>
+			<h1 className="gfg">Pradeep Book Store </h1>
 			<h3 style={{ color: "green" }}>Total Price: {totalPrice}</h3>
 
 			<div className="cart-num">
